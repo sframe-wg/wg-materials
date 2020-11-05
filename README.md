@@ -8,7 +8,7 @@ supplementary material.
 Formal records for the working group are maintained on the
 [IETF datatracker](https://datatracker.ietf.org/wg/sframe/about/).
 
-[Contribution guidelines](CONTRIBUTING.md) outline how to participate.
+[Contribution guidelines](./CONTRIBUTING) outline how to participate.
 
 # Meetings
 
