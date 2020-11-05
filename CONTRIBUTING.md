@@ -1,3 +1,6 @@
+--
+layout: page
+--
 # Contributing to SFrame
 
 Anyone can contribute to this work. There is no "membership" requirement or
