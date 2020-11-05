@@ -1,3 +1,10 @@
+--
+layout: page
+title: "SFrame Working Group Materials"
+--
+
+# Introduction
+
 The SFrame Working Group is producing protocols that will enable end-to-end
 protection for real-time media.
 
