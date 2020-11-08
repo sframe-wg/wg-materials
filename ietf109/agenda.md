@@ -27,7 +27,7 @@ Resources:
 | - Streaming      | Dr. Alex Gouaillard    |   10 |
 | - WebRTC         | Youenn Fablet          |   10 |
 | Protection       | Emad Omara             |   30 |
-| - Video Payloads | Sergio Garcia Murrillo |   20 |
+| - Video Payloads | Sergio Garcia Murillo  |   20 |
 | MLS Integration  | Richard Barnes         |   20 |
 | AOB              | -                      |    ~ |
 
