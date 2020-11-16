@@ -18,18 +18,19 @@ Resources:
 
 ## Agenda
 
-| Item             | People                 | Time |
-| :--------------- | :--------------------- | ---: |
-| Introduction     | Chairs                 |    5 |
+| Item                                 | People                 | Time |
+| :----------------------------------- | :--------------------- | ---: |
+| [Introduction](./chairs.pdf)         | Chairs                 |    5 |
 | Charter Review   | Chairs                 |   10 |
 | Use Cases        |                        |      |
-| - Conferencing   | Emad Omara             |   10 |
+| - [Conferencing](./conferencing.pdf) | Emad Omara             |   10 |
 | - Streaming      | Dr. Alex Gouaillard    |   10 |
 | - WebRTC         | Youenn Fablet          |   10 |
 | Protection       | Emad Omara             |   30 |
-| - Video Payloads | Sergio Garcia Murillo  |   20 |
+| - [Video Payloads](./video.pdf)      | Sergio Garcia Murillo  |   20 |
 | MLS Integration  | Richard Barnes         |   20 |
 | AOB              | -                      |    ~ |
+
 
 ## Documents
 
