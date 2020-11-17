@@ -20,18 +20,19 @@ Resources:
 
 | Item                                 | People                 | Time |
 | :----------------------------------- | :--------------------- | ---: |
-| [Introduction](./chairs.pdf)         | Chairs                 |    5 |
-| Charter Review                       | Chairs                 |   10 |
+| [Introduction](https://sframe-wg.github.io/wg-materials/ietf109/chairs.pdf)         | Chairs                 |    5 |
+| [Charter Review](https://sframe-wg.github.io/wg-materials/ietf109/chairs.pdf)       | Chairs                 |   10 |
 | Use Cases                            |                        |      |
-| - Streaming      | Dr. Alex Gouaillard    |   10 |
-| - [WebRTC](./webrtc.pdf)             | Youenn Fablet          |   10 |
-| - [Conferencing](./conferencing.pdf) | Emad Omara             |   10 |
-| Protection       | Emad Omara             |   30 |
-| - [Video Payloads](./video.pdf)      | Sergio Garcia Murillo  |   20 |
-| [MLS Integration](./mls.pdf)         | Richard Barnes         |   20 |
-| AOB              | -                      |    ~ |
+| - [Streaming](https://sframe-wg.github.io/wg-materials/ietf109/streaming.pdf)       | Dr. Alex Gouaillard    |   10 |
+| - [WebRTC](https://sframe-wg.github.io/wg-materials/ietf109/webrtc.pdf)             | Youenn Fablet          |   10 |
+| - [Conferencing](https://sframe-wg.github.io/wg-materials/ietf109/conferencing.pdf) | Emad Omara             |   10 |
+| [Protection](https://sframe-wg.github.io/wg-materials/ietf109/conferencing.pdf)     | Emad Omara             |   30 |
+| - [Video Payloads](https://sframe-wg.github.io/wg-materials/ietf109/video.pdf)      | Sergio Garcia Murillo  |   20 |
+| [MLS Integration](https://sframe-wg.github.io/wg-materials/ietf109/mls.pdf)         | Richard Barnes         |   20 |
+| AOB                                  | -                      |    ~ |
 
 
 ## Documents
 
 [draft-omara-sframe](https://datatracker.ietf.org/doc/html/draft-omara-sframe-00)
+[draft-barnes-sframe-mls](https://datatracker.ietf.org/doc/html/draft-barnes-sframe-mls-00)
