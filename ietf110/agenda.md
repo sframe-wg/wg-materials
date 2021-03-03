@@ -8,12 +8,10 @@ The SFrame Working Group is meeting at IETF 110.
 Tuesday Session II (15:30-16:30 UTC+1, 14:30-15:30 UTC)
 Chairs: Bobo Bose-Kolanu, Martin Thomson
 
-Resources:
-
 * [Minutes](https://codimd.ietf.org/notes-ietf-110-sframe)
 * [Chat](xmpp:sframe@jabber.ietf.org?join)
 * [Video Stream](https://meetings.conf.meetecho.com/ietf110/?group=sframe&short=&item=1)
-* [Calendar](https://datatracker.ietf.org/meeting/110/session/?????.ics)
+* [Calendar](https://datatracker.ietf.org/meeting/110/session/28715.ics)
 * [Materials](https://github.com/sframe-wg/wg-materials)
 
 
