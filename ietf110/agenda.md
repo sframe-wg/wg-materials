@@ -17,7 +17,8 @@ Chairs: Bobo Bose-Kolanu, Martin Thomson
 
 ## Agenda
 
-welcome, administrivia, agenda         10    chairs
+[welcome, administrivia, agenda](https://sframe-wg.github.io/wg-materials/ietf110/chair.pdf)
+                                       10    chairs
 Use cases, scope                       10    Tim Panton
 The big picture                        10    Dr. Alex Gouaillard
 [draft-gouaillard-avtcore-codec-agn-rtp-payload](https://datatracker.ietf.org/doc/html/draft-gouaillard-avtcore-codec-agn-rtp-payload)
