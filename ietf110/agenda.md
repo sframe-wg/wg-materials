@@ -25,7 +25,8 @@ Chairs: Bobo Bose-Kolanu, Martin Thomson
                                        10    Dr. Alex Gouaillard
 [draft-gouaillard-avtcore-codec-agn-rtp-payload](https://sframe-wg.github.io/wg-materials/ietf110/agnostic.pdf)
                                        15    Sergio Garcia Murillo
-MLS Integration (no slides)            10    Richard Barnes
+[MLS Integration](https://sframe-wg.github.io/wg-materials/ietf110/mls.pdf)
+                                       10    Richard Barnes
 
 
 ## Drafts
