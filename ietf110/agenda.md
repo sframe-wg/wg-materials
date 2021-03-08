@@ -21,10 +21,11 @@ Chairs: Bobo Bose-Kolanu, Martin Thomson
                                        10    chairs
 [Use cases, scope](https://sframe-wg.github.io/wg-materials/ietf110/scope.pdf)
                                        10    Tim Panton
-The big picture                        10    Dr. Alex Gouaillard
+[The big picture](https://sframe-wg.github.io/wg-materials/ietf110/big.pdf)
+                                       10    Dr. Alex Gouaillard
 [draft-gouaillard-avtcore-codec-agn-rtp-payload](https://sframe-wg.github.io/wg-materials/ietf110/agnostic.pdf)
                                        15    Sergio Garcia Murillo
-MLS Integration                        10    Richard Barnes
+MLS Integration (no slides)            10    Richard Barnes
 
 
 ## Drafts
