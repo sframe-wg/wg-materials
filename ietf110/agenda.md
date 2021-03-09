@@ -17,16 +17,16 @@ Chairs: Bobo Bose-Kolanu, Martin Thomson
 
 ## Agenda
 
-[welcome, administrivia, agenda](https://sframe-wg.github.io/wg-materials/ietf110/chair.pdf)
-                                       10    chairs
-[Use cases, scope](https://sframe-wg.github.io/wg-materials/ietf110/scope.pdf)
-                                       10    Tim Panton
-[The big picture](https://sframe-wg.github.io/wg-materials/ietf110/big.pdf)
-                                       10    Dr. Alex Gouaillard
-[draft-gouaillard-avtcore-codec-agn-rtp-payload](https://sframe-wg.github.io/wg-materials/ietf110/agnostic.pdf)
-                                       15    Sergio Garcia Murillo
-[MLS Integration](https://sframe-wg.github.io/wg-materials/ietf110/mls.pdf)
-                                       10    Richard Barnes
+* [welcome, administrivia, agenda](https://sframe-wg.github.io/wg-materials/ietf110/chair.pdf)
+  * 10    chairs
+* [Use cases, scope](https://sframe-wg.github.io/wg-materials/ietf110/scope.pdf)
+  * 10    Tim Panton
+* [The big picture](https://sframe-wg.github.io/wg-materials/ietf110/big.pdf)
+  * 10    Dr. Alex Gouaillard
+* [draft-gouaillard-avtcore-codec-agn-rtp-payload](https://sframe-wg.github.io/wg-materials/ietf110/agnostic.pdf)
+  * 15    Sergio Garcia Murillo
+* [MLS Integration](https://sframe-wg.github.io/wg-materials/ietf110/mls.pdf)
+  * 10    Richard Barnes
 
 
 ## Drafts
