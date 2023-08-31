@@ -1,0 +1,30 @@
+The purpose of this interim is to finalize the SFrame specification.
+
+Attendees are requested to:
+
+1. Review the latest draft:
+   https://datatracker.ietf.org/doc/html/draft-ietf-sframe-enc-03
+
+2. Open issues as necessary:
+   https://github.com/sframe-wg/sframe
+
+3. Send mail to the list with reviews:
+   sframe@ietf.org
+
+Issues will be tracked in GitHub; the agenda will be based on the issues (and
+pull requests) that exist.
+
+Time: 2023-09-13 from 15:00 to 16:00 UTC
+Venue: https://meetings.conf.meetecho.com/interim/?short=ffe16778-cf4a-435c-b36d-ab347f062061
+Notes: https://notes.ietf.org/notes-ietf-interim-2023-sframe-01-sframe
+Calendar: https://datatracker.ietf.org/meeting/interim-2023-sframe-01/session/31583.ics
+
+Time zone expansion:
+EU (UTC+2): 17:00
+US East (UTC-6): 11:00
+US West (UTC-9): 08:00
+AU East (UTC+10): 01:00 (Thursday)
+Japan (UTC+9): 00:00 (Thursday)
+India (UTC+3:30): 20:30
+
+
